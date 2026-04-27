@@ -26,7 +26,7 @@
 
 ### 方式一：从 SkillHub 安装（推荐）
 
-在 WorkBuddy 中搜索 "labor-law-advisor" 或 "劳动法" 即可找到并安装。
+在 https://skillhub.cn 中或 WorkBuddy 技能中搜索 "labor-law-advisor" 或 "劳动法" 即可找到并安装。
 
 ### 方式二：从 GitHub 克隆
 
