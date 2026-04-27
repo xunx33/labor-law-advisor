@@ -32,13 +32,13 @@
 
 ```bash
 git clone https://github.com/xunx33/labor-law-advisor.git
-cp -r labor-law-advisor ~/.workbuddy/skills/labor-law-advisor
+cp -r labor-law-advisor ~/.openclaw/skills/labor-law-advisor
 ```
 
 ### 方式三：手动安装
 
 1. 下载本仓库的 zip 文件
-2. 解压到 `~/.workbuddy/skills/labor-law-advisor/`
+2. 解压到 `~/.openclaw/skills/labor-law-advisor/`
 3. 确保目录结构如下：
 
 ```
